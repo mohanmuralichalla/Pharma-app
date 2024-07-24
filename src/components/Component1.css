@@ -1,0 +1,67 @@
+.div101,
+.title49 {
+  position: absolute;
+  top: 0;
+}
+.div101 {
+  left: 0;
+  line-height: 130%;
+  font-weight: 600;
+}
+.title49 {
+  left: 50.7px;
+  width: 52px;
+  height: 65px;
+}
+.sub-text-child8,
+.sub-text-child9 {
+  position: absolute;
+  top: 0;
+  left: 34.9px;
+  border: 0.5px solid var(--color-cornflowerblue-200);
+  box-sizing: border-box;
+  width: 90.8px;
+  height: 26.9px;
+}
+.sub-text-child9 {
+  top: 26.3px;
+  left: 0;
+  width: 160.4px;
+}
+.years {
+  margin: 0;
+}
+.years-experience {
+  position: absolute;
+  top: 3.5px;
+  left: 16.7px;
+  letter-spacing: 0.42em;
+  line-height: 173%;
+  text-transform: uppercase;
+}
+.sub-text25 {
+  position: absolute;
+  top: 72.9px;
+  left: 0;
+  width: 160.4px;
+  height: 53.2px;
+  text-align: center;
+  font-size: var(--font-size-sm);
+}
+.div100,
+.heading19 {
+  width: 160.4px;
+  height: 126.1px;
+}
+.heading19 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.div100 {
+  position: relative;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--light-background-color);
+  font-family: var(--font-source-sans-pro);
+}

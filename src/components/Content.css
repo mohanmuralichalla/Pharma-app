@@ -1,0 +1,66 @@
+.image-icon32 {
+  width: 75px;
+  position: relative;
+  height: 75px;
+  object-fit: cover;
+}
+.dr-lily-smith {
+  position: relative;
+  line-height: 114.5%;
+  font-weight: 600;
+}
+.dental-specialist {
+  position: relative;
+  font-size: var(--navigation-size);
+  line-height: 142%;
+  font-family: var(--font-lato);
+  color: var(--color-dimgray-100);
+}
+.name11,
+.user2 {
+  width: 138px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.user2 {
+  width: 228px;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-mini);
+}
+.instagram-icon {
+  width: 18.7px;
+  position: relative;
+  height: 18px;
+}
+.facebook-icon,
+.twiter-icon16 {
+  width: 19.3px;
+  position: relative;
+  height: 18px;
+}
+.twiter-icon16 {
+  width: 18.1px;
+  height: 14.4px;
+}
+.content74,
+.follow16 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.follow16 {
+  width: 102.1px;
+  gap: var(--gap-4xl);
+}
+.content74 {
+  gap: var(--gap-182xl);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-300);
+  font-family: var(--font-montserrat);
+}
